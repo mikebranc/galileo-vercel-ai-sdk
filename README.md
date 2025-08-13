@@ -33,8 +33,8 @@ Session: "Chat Session - chat-abc123"
 
 ### 1. Prerequisites
 
-- An OpenAI API key
-- A Galileo account and API key
+- An OpenAI API key: https://openai.com/api/
+- A Galileo account and API key: https://app.galileo.ai/
 
 ### 2. Clone and Install
 
