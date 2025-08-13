@@ -255,16 +255,12 @@ logger.addLlmSpan({
 - [Streaming Text](https://ai-sdk.dev/docs/ai-sdk-core/generating-text)
 - [Message Persistence](https://ai-sdk.dev/docs/ai-sdk-ui/chatbot-message-persistence)
 
-### Galileo SDK
+### Galileo
+- [Getting Started](https://v2docs.galileo.ai/getting-started/quickstart)
 - [TypeScript SDK Reference](https://v2docs.galileo.ai/sdk-api/typescript/sdk-reference)
 - [Galileo Logger](https://v2docs.galileo.ai/sdk-api/logging/galileo-logger)
 - [Logging Basics](https://v2docs.galileo.ai/sdk-api/logging/logging-basics)
 - [Span Types](https://v2docs.galileo.ai/concepts/logging/spans)
-
-## Support
-
-- **Vercel AI SDK**: [GitHub](https://github.com/vercel/ai) | [Discord](https://discord.gg/vercel)
-- **Galileo**: [Documentation](https://v2docs.galileo.ai/) | [Support](https://galileo.ai/support)
 
 ## License
 
