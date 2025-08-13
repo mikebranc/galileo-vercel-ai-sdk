@@ -261,7 +261,3 @@ logger.addLlmSpan({
 - [Galileo Logger](https://v2docs.galileo.ai/sdk-api/logging/galileo-logger)
 - [Logging Basics](https://v2docs.galileo.ai/sdk-api/logging/logging-basics)
 - [Span Types](https://v2docs.galileo.ai/concepts/logging/spans)
-
-## License
-
-MIT License - feel free to use this as a starting point for your own integrations!
