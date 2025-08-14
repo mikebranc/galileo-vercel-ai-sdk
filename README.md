@@ -39,7 +39,7 @@ Session: "Chat Session - chat-abc123"
 ### 2. Clone and Install
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/mikebranc/galileo-vercel-ai-sdk.git
 cd galileo-vercel-ai-sdk
 pnpm install
 ```
